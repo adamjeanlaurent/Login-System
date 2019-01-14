@@ -1,0 +1,89 @@
+*{margin: 0; padding:0}
+
+body{
+    background-color: rgb(255, 252, 250);
+    padding: 25vh;
+    background-image: url("pLJHTjU.jpg");
+    background-repeat: no-repeat;
+    background-size:cover
+}
+
+.form-container{
+    width:250px;
+    height: auto;
+    padding: 20px 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 #000;
+    margin: auto;
+}
+
+form.list{
+    list-style: none;
+    text-align: center;
+}
+
+form.list input{
+    width: 250px;
+    margin-bottom: 10px;
+}
+
+form.list input[type = "text"]{
+    width: 250px;
+    text-align: center;
+    padding: 8px 0px;
+    border: none;
+    background-color: #d3d3d3;  
+    border-radius: 5px;
+}
+
+form.list input[type = "password"]{
+    width: 250px;
+    text-align: center;
+    padding: 8px 0px;
+    border: none;
+    background-color: #d3d3d3;
+    border-radius: 5px;
+}
+
+form.list button{
+    width: 250px;
+    text-align: center;
+    padding: 8px 0px;
+    border: none;
+    background-color: #4690fb;
+    color: #fff;
+    border-radius: 5px;
+}
+
+form.list input[type = "submit"]:hover{
+    opacity: 0.8;
+}
+
+img{
+    width: 250px;
+    text-align: center;
+    padding: 8px 0px;
+    height: 180px;
+
+}
+
+.signupbtn{
+    background-color: #e22121;
+    color: #fff;
+    border-radius: 5px;
+    width: 250px;
+    text-align: center;
+    padding: 8px 0px;;
+    border: none;
+    height: 31px;
+}
+
+button:hover{
+    opacity: 0.8;
+}
+
+h2{
+    text-align: center;
+    font-family: "Courier New", Times, serif;
+}
