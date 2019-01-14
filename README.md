@@ -10,8 +10,8 @@ These inctructions will explain how to get this project up and running on your l
 ### Prerequisites
 
 ```
-I used MAMP as a database management system, and in the dbh.php file I used port:8889, if you're using XAMP or deploying this
-yourself you'll need to edit that file.
+I used MAMP as a database management system, and in the dbh.php file I used port:8889, 
+if you're using XAMP or deploying this yourself you'll need to edit that file.
 
 The table i'm using for the project has the following structure
 
