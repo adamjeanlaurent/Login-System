@@ -5,7 +5,7 @@ This is a login system that stores user data in a MySQL database, users are able
 
 ## Getting Started
 
-These inctructions will explain how to get this project up and running on your local machine
+These instructions will explain how to get this project up and running on your local machine
 
 ### Prerequisites
 
