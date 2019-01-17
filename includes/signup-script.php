@@ -55,7 +55,7 @@ if(isset($_POST['signup-submit'])){
                 ":username" => $username,
                 ":password" => $hashedPassword 
             ));
-            header("Location: ../login.php?signup=success");
+            header("Location: ../index.php?signup=success");
             exit();
         }
     }
